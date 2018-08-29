@@ -7,5 +7,5 @@ Nim	  : 311610440
 Url   : damasmahardi.web.id
 Layout Index
 <p align="center">
-<img src="https://github.com/DamasMahardi/tugasuas/barangss.png" width="450 height="300"/>
+<img src="https://github.com/DamasMahardi/tugasuas/blob/master/barangss.png" width="450 height="300"/>
 </p><br>
